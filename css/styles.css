@@ -204,6 +204,13 @@ section {
 .hero__image-block {
   display: none;
 }
+.footer-link-list{
+display:flex;flex-wrap: wrap;justify-content:space-evenly;
+list-style: none;
+}
+.footer-link{
+  margin: 0.5rem;
+}
 /* media queries */
 
 @media (min-width: 785px) {
